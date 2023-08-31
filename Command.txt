@@ -1,0 +1,95 @@
+open chrome
+close chrome
+Word
+PowerPoint
+excel
+control Panel
+calculator 
+command prompt 
+notepad
+paint 
+task manager 
+Windows Explorer 
+Word pad 
+Magnifier 
+edge 
+On Screen keyboard 
+PowerShell 
+Snipping tool 
+Settings 
+photos
+whatsapp
+calender 
+Camera 
+Alarms 
+Clock 
+store 
+notepad plus plus
+One Drive
+spotify
+visual studio code
+vs code
+visual studio
+spotify
+youtube
+gmail
+google calender
+google maps
+what is todays date
+what is the date today
+can you tell me todays date
+whats the date today
+play music
+play song
+open brave
+lock the screen
+go to sleep
+screen off
+close chrome
+close Word
+close powerpoint
+close excel
+close control Panel
+close calculator
+close command prompt
+close notepad
+close paint
+close windows explorer
+close word pad
+close magnifier
+close edge
+close On Screen keyboard
+close PowerShell
+close snipping tool
+close whatsapp
+close camera
+close Notepad plus plus
+close one drive
+close spotify
+close vs code
+close visual studio
+close gmail
+close youtube
+close gmail
+close google calender
+whats the time now
+take a screenshot
+hi jarvis
+hi
+hello jarvis
+hello
+good morning
+good morning jarvis
+good afternoon
+good afternoon jarvis
+good evening
+good evening jarvis
+good night
+good night jarvis
+hi how are you
+I am doing great
+how are you
+whats up
+thank you
+thank you jarvis
+what is your name
